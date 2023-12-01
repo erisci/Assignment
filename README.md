@@ -2,7 +2,7 @@
 
 The group member as follows
 
-|Name-Sirname|e-mail|
+|Name-Surname|e-mail|
 |----|------|
 |Eren Erişçi|eren.erisci@ogr.iu.edu.tr|
 |Toutse Moustafa|toutse.moustafa@ogr.iu.edu.tr|
