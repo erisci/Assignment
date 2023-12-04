@@ -7,7 +7,11 @@ choosing variable names!
 **Answer:**
 
 test_results = True
+
 median_of_score = 5.41
+
 age_of_participant = 38
+
 name_of_participant = "John Doe"
+
 test_file = Null
